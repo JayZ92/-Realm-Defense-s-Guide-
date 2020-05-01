@@ -1,4 +1,7 @@
-# 帝国守卫战新手指南以及百科全书(Realm Defense Beginner’s Guide)
+# 帝国守卫战新手指南以及百科全书(Realm Defense Beginner’s Guide) 2020-5-1
+<a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/images/download_app_google_play.svg" height="48" /></a>
+<a href="https://itunes.apple.com/us/app/realm-defense/id1197076384?mt=8" target="_blank"><img src="/images/download_app_store.svg"  height="48" /></a>
 ## 前言
   + 欢迎加入 **Realm Defense(帝国守卫战) TD** 这个大家庭. 
   > **RD 的全称就是 Realm Defense: Hero Legends Tower Defense(帝国守卫战: 英雄传奇塔防)**
