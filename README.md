@@ -1,4 +1,4 @@
-# **Realm Defense 帝国守卫战新手指南以及百科全书** 2020-3-25
+# **Realm Defense 帝国守卫战新手指南以及百科** 2020-3-25
 
 <a href="https://www.babeltimeus.com/" target="_blank"><img src="https://www.babeltimeus.com/images/logo-290x93.png" height="48" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd" target="_blank"><img src="/pictures/download_app_google_play.svg" height="48" /></a>
