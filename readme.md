@@ -361,8 +361,8 @@
 | LV5 | Lancelot | 兰斯洛特 | 骑 |
 | LV7 | Masamune | 正宗 | 忍 |
 | LV9 | Connie | 康妮 | 兔 |
-| LV12 | Bolton | 伯尔顿 | 电 |
 | LV11 | Hogan | 霍根 | 猪 |
+| LV12 | Bolton | 伯尔顿 | 电 |
 | LV1  | Obsidian | 黑岩巨人 | 石 |
 | LV1  | Efrigid | 艾冰 | 冰 |
 | LV1  | Smoulder | 烈焰神龙 | 龙 |
