@@ -340,6 +340,7 @@
 | 三味子 | 辅助(增幅),防空,群伤 | 同样 | C6-无休止的邪恶 |
 
 ## 菲
+![fee](https://user-images.githubusercontent.com/63019103/86518277-6a3dcf80-bdfe-11ea-9b5c-52a58578ac25.jpg)
 + 远攻手, 召唤师.
 + 技能
 1. 野性精神(主动)
