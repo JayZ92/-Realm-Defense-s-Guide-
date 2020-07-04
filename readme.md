@@ -20,6 +20,7 @@
   + 指南大部分是基于国际服的标准, 如果国服不能看广告得额外的道具属于正常情况.
   
 ## 玩家经常会问到的问题(FAQ frequently asked questions)
+![FAQ](https://user-images.githubusercontent.com/63019103/86521729-8fdcd000-be22-11ea-8b1c-a43f8184893a.jpg)
 
 **注: 请玩家多自己看一看游戏内的英雄以及每个塔的信息以及其他功能等等以便更好的理解指南的方方面面.** 
 
