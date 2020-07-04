@@ -5,7 +5,7 @@
 <a href="https://itunes.apple.com/us/app/realm-defense/id1197076384?mt=8" target="_blank"><img src="/pictures/download_app_store.svg"  height="48" /></a>
 
 
-https://user-images.githubusercontent.com/63019103/86518187-652c5080-bdfd-11ea-943c-ef87df48205c.jpg
+https://github.com/JayZ92/-Realm-Defense-s-Guide-/issues/1#issue-650930841
 ## 前言
 
   + 欢迎加入 **Realm Defense(帝国守卫战) TD** 这个大家庭. 
