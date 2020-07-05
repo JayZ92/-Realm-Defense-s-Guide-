@@ -816,8 +816,10 @@
 ## 亡灵法师康妮特别章
 
 《关于3月31号康妮觉醒活动的详情》
+
 ![normal connie](https://user-images.githubusercontent.com/63019103/86541577-fa057b80-bedb-11ea-8b72-22b936c523af.jpg)
 ![connie](https://user-images.githubusercontent.com/63019103/86541574-f671f480-bedb-11ea-88f5-0d9815248b8c.jpg)
+
 注: 请玩家在没把握通过亡灵法师康妮故事之前不要解锁康妮的故事. 这样钻石就暂时浪费了.
 （亲测: 雷夫 4冰 紫龙可以最低只需要一颗陨石通过7关）
 1. 特别章地点在一世界圣水工厂附近
