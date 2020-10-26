@@ -216,7 +216,13 @@
 4. 传奇以下锦标赛只有两次免费入场的机会.
 
 ## 每日任务和每周任务
-
+> **每日任务奖励不够5个碎或以上的建议刷新任务**
+1. Win two campaign levels in world (1,2,3,4,5,6) without using any heroes' active. **在某个世界, 框框里数字代表第几世界, 赢两次战役模式在不使用英雄主动技能的情况下.**
+2. Win two legendary levels in world (1,2,3,4,5,6). **在某个世界赢得两次传奇模式.**
+3. submit a tournament run. **上交一次锦标赛的成绩.**
+4. Earn a Realm Siege Medal. **境界守卫打一次.**
+5. Win two campaign levels in world (1,2,3,4,5,6) using Fee(Fee是指菲，可以用任何英雄名称代替）. **在某个世界, 框框里数字代表第几世界, 用某个英雄赢两次战役模式.**
+6. Kill 100 skeletons(Skeletons 指骷髅, 在这里可以用任何敌人代替）. **击杀一定数量的敌人, 如果点击任务会显示敌人在第几世界, 另游戏内设置英文然后看怪物图鉴可以看见英文名.**
 
 ## 英雄的购买路线和觉醒以及每个英雄在推图和锦标的作用以及一些小贴士
 > + **不要为了升级英雄的技能而买英雄, 很亏.**
