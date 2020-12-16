@@ -8,7 +8,7 @@
 ![cover page1 1](https://user-images.githubusercontent.com/63019103/86518243-221ead00-bdfe-11ea-89aa-4ad22deade84.jpg)
 ## 前言
 
-  + 欢迎加入 **Realm Defense(帝国守卫战) TD** 这个大家庭. 
+  + 欢迎加入 **Realm Defense(帝国守卫战) TD**这个塔防游戏大家庭. 
   > 游戏有分为国服和国际服, 所有安卓用户大多属于国服; 少数安卓用户属于国际服. 苹果用户属于国际服.
   + 如果大家有兴趣更加深入的交流这款游戏的话, 我们有个**QQ交流群, 群号399018853.** 我们欢迎所有玩家的加入.
   > **RD 的全称就是 Realm Defense: Hero Legends Tower Defense(帝国守卫战: 英雄传奇塔防)**
